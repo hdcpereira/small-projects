@@ -3,7 +3,7 @@ import numpy
 import cv2
 
 
-vid = cv2.VideoCapture('/home/hugo/Downloads/00529.MTS')
+vid = cv2.VideoCapture('file path')
 
 
 if not os.path.exists('images'):
